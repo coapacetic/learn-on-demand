@@ -1,7 +1,6 @@
 version: 2
 
 models:
-
     - name: stg_customers
       description: Staged customer data from our jaffle shop app.
       columns: 
