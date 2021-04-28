@@ -3,7 +3,7 @@ version: 2
 sources:
     - name: jaffle_shop
       description: A clone of a Postgres application database.
-      database: raw
+      database: dbt-tutorial
       tables:
         - name: customers
           description: Raw customers data.
